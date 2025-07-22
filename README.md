@@ -1,4 +1,4 @@
-#Heart Failure Prediction using Machine Learning
+Heart Failure Prediction using Machine Learning
 This project focuses on predicting the likelihood of a heart failure event using a clinical dataset. It leverages supervised machine learning techniques to analyze key health indicators and identify patterns associated with heart failure outcomes.
 
 We used a Random Forest Classifier trained on features such as:
